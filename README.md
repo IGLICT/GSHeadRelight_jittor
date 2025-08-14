@@ -1,7 +1,8 @@
 # [SIGGRAPH 2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis 
 
-<a href="http://www.geometrylearning.com/JittorGL"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
+<a href="http://www.geometrylearning.com/GSHeadRelight"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 <a href="https://dl.acm.org/doi/10.1145/3721238.3730614"><img src="https://img.shields.io/badge/Paper-red" alt="Paper"></a>
+<a href="http://www.geometrylearning.com/JittorGL"><img src="https://img.shields.io/badge/Project_Page-blue" alt="Jittor"></a>
 
 Official jittor implementation for "GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis".
 
