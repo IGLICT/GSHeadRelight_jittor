@@ -1,0 +1,3 @@
+/mnt/155_16T/zhangbotao/jgaussian/finalgaussian/application/gsheadrelighting/jittorutils/CMakeFiles/NetworkOps.dir
+/mnt/155_16T/zhangbotao/jgaussian/finalgaussian/application/gsheadrelighting/jittorutils/CMakeFiles/edit_cache.dir
+/mnt/155_16T/zhangbotao/jgaussian/finalgaussian/application/gsheadrelighting/jittorutils/CMakeFiles/rebuild_cache.dir

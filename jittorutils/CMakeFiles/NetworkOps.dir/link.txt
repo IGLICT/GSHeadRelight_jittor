@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,libNetworkOps.so -o libNetworkOps.so @CMakeFiles/NetworkOps.dir/objects1 @CMakeFiles/NetworkOps.dir/linkLibs.rsp -L"/usr/local/cuda-11.8/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda-11.8/targets/x86_64-linux/lib"
