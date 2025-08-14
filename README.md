@@ -7,7 +7,7 @@ Official jittor implementation for "GSHeadRelight: Fast Relightability for 3D Ga
 
 For pytorch implementation please see (https://github.com/IGLICT/GSHeadRelight).
 
-![teaser](asset\images\teaser.png)
+![teaser](asset/images/teaser.png)
 
 
 
